@@ -41,7 +41,7 @@
 
 <br><br>
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma&theme=dark" alt="Tech Stack"/>
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma,linux&theme=dark" alt="Tech Stack"/>
 
 </div>
 
