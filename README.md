@@ -39,11 +39,9 @@
 <div align="center">
 <img src="https://github-readme-stats-phi-six.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Ph%C3%A2n+T%C3%ADch+Hi%E1%BB%87u+Su%E1%BA%A5t&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 
-
-
 <br><br>
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma&theme=dark" alt="Tech Stack"/>
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma&theme=dark" alt="Tech Stack"/>
 
 </div>
 
