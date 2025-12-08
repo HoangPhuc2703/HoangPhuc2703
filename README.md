@@ -38,7 +38,8 @@
 
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Phân+Tích+Hiệu+Suất&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" /> -->
-<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
 <br><br>
 
