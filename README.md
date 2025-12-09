@@ -38,9 +38,9 @@
 
 <div align="center">
 <div align="center">
-<img width="100%" src="https://github-readme-stats-phi-six.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Phân+Tích+Hiệu+Suất&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
+<img width="100%" height="auto" src="https://github-readme-stats-phi-six.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Phân+Tích+Hiệu+Suất&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 
-<img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma,linux&theme=dark" />
+<img width="100%" height="auto" src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma,linux&theme=dark" />
 </div>
 
 </td>
