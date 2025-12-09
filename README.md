@@ -67,7 +67,7 @@
 <img height="70" src="https://skillicons.dev/icons?i=react,flutter,dart,swift,kotlin&theme=dark"/>
 
 ### Database & Hạ Tầng
-<img height="70" src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx&theme=dark"/>
+<img height="70" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,nginx&theme=dark"/>
 
 ### Hệ Sinh Thái Phát Triển
 <img height="70" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
@@ -83,7 +83,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Ngôn+Ngữ+Chính&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhuc2703&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Ngôn+Ngữ+Chính&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
 </td>
 <td align="center" width="25%">
 
