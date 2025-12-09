@@ -83,7 +83,8 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://github-readme-stats-phi-six.vercel.app/api/top-langs/?username=HoangPhuc2703&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Ngôn+Ngữ+Chính&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
+<img src="https://github-readme-stats-git-master-rivik59s-projects.vercel.app/api/top-langs/?username=HoangPhuc2703&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Ngôn+Ngữ+Chính&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27
+" />
 </td>
 <td align="center" width="25%">
 
