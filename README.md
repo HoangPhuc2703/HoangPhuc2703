@@ -37,10 +37,10 @@
 <td width="32%">
 
 <div align="center">
-<img src="https://github-readme-stats-phi-six.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Ph%C3%A2n+T%C3%ADch+Hi%E1%BB%87u+Su%E1%BA%A5t&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
+<div align="center">
+<img width="100%" src="https://github-readme-stats-phi-six.vercel.app/api?username=HoangPhuc2703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Phân+Tích+Hiệu+Suất&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma,linux&theme=dark" alt="Tech Stack"/>
-
+<img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=php,nodejs,nestjs,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma,linux&theme=dark" />
 </div>
 
 </td>
@@ -58,7 +58,7 @@
 <div align="center">
 
 ### Kiến Trúc Backend
-<img height="70" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django&theme=dark"/>
+<img height="70" src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,python,django&theme=dark"/>
 
 ### Xuất Sắc Frontend
 <img height="70" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs&theme=dark"/>
